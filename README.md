@@ -13,7 +13,6 @@ The directory structure of new project looks like this:
 ├── app.py                 <- Main Application
 ├── requirements.txt       <- File for installing python dependencies
 │
-├── vehicle-counting.mp4   <- Example video for Realtime Processing
 ├── .gitignore             <- List of files ignored by git
 └── README.md
 ```
@@ -33,6 +32,9 @@ To get started, clone this repository onto your local machine. Follow the instru
    ```bash
    cd vehicle-detection-counting
    ```
+
+### 1.1 Download Demo Video
+You can download the Demo Video and then put the appropriate folder structure on above: https://drive.google.com/file/d/1bev5yVWtLDDJzreerRt5uXr_WPdyceZF/view?usp=sharing
 
 ### 2. System Requirements
 Make sure your system meets the following requirements before proceeding:
