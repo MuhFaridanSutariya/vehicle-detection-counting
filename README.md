@@ -1,5 +1,6 @@
 # Vehicle Detection And Counting
 This Project for Exploration about Vehicle Detection and Counting using YOLOv8.
+![image](https://github.com/MuhFaridanSutariya/vehicle-detection-counting/assets/88027268/528c5c40-bf2b-47ba-bbfa-013a95d92142)
 
 ## Project Structure
 
