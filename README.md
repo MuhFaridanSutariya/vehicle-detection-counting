@@ -13,6 +13,7 @@ The directory structure of new project looks like this:
 ├── app.py                 <- Main Application
 ├── requirements.txt       <- File for installing python dependencies
 │
+├── vehicle-counting.mp4   <- Demo Video
 ├── .gitignore             <- List of files ignored by git
 └── README.md
 ```
