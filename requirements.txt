@@ -1,0 +1,5 @@
+ultralytics==8.0.157
+supervision==0.13.0
+tqdm
+streamlit==1.36.0
+streamlit_webrtc==0.47.7
