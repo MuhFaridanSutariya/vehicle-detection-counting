@@ -84,8 +84,14 @@ pip install -r requirements.txt
 ```
 This command will install all the required packages specified in the `requirements.txt` file 
 
+
+
 ### 6. Run Streamlit or Frontend
 
 How to run Web App:
 
 ``streamlit run app.py``
+
+## Demo
+
+You can access using this URL: https://huggingface.co/spaces/faridans27/vehicle-detection-counting
